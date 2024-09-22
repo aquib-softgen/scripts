@@ -1,7 +1,7 @@
-### Collection of scripts and utils for personal user
+## Collection of scripts and utils for personal user
 
 
-#### image-halver
+### image-halver
 Chops an image into half x number of times iteratively
 
 ```bash
